@@ -48,7 +48,7 @@ Additional files with similar content (April-May data).
 
 ---
 
-### ⚠️ Limitations and Sampling Bias
+### Limitations and Sampling Bias
 
 While the dataset provides valuable insights into user behavior, it has several limitations. With data from only 33 users and no accompanying demographic details, the sample may not accurately reflect the broader population, raising concerns about representativeness. Additionally, the data is from 2016 and spans just two months, which limits its relevance to current trends. Because of these constraints, this case study is treated as an analytical exercise to demonstrate process and methodology, rather than to make generalized claims about today’s smart device users.
 
