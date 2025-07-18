@@ -11,7 +11,7 @@ This repository contains my data analysis case study for Bellabeat, following Go
 ---
 
 ## Steps Followed
-0. **[Index](/docs/index.md)**
+0. **[Index](/docs/index.md)
 1. **[Ask](/docs/step1_ask.md)**
 2. **[Prepare](/docs/step2_prepare.md)**
 3. **[Process](/docs/step3_process.md)**
