@@ -11,12 +11,12 @@ This repository contains my data analysis case study for Bellabeat, following Go
 ---
 
 ## Steps Followed
-1. Ask
-2. Prepare
-3. Process
-4. Analyze
-5. Share
-6. Act
+1. **[Ask](step1_ask.md)**
+2. **[Prepare](step2_prepare.md)**
+3. [Process](step3_process.md)
+4. **[Step 4: Analyze](step4_analyze.md)**
+5. **[Step 5: Share](step5_share.md)**
+6. **[Step 6: Act](step6_act.md)**
 
 ---
 
