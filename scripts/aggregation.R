@@ -1,16 +1,16 @@
-# Aggregating minute and hourly data
-library(dplyr)
-library(readr)
+library(tidyverse)
 library(lubridate)
 
-# Load hourly steps data
-hourly_steps <- read_csv("data/raw_data/hourlySteps_merged.csv")
+# Load cleaned hourly steps
+hourly_steps <- read_csv("data/processed_data/hourly_steps_clean.csv")
 
-# Convert date
-hourly_steps <- hourly_steps %>%
-  mutate(Date = as.Date(ActivityHour)) %>%
-  group_by(Id, Date) %>%
-  summarize(DailySteps = sum(StepTotal, na.rm = TRUE))
+# Aggregate hourly to daily
+daily_steps <- hourly_steps %>%
+  mutate(date = as_date(date_time)) %>%
+  group_by(id, date) %>%
+  summarize(daily_steps = sum(step_total, na.rm = TRUE), .groups = "drop")
 
-# Save to CSV
-write_csv(hourly_steps, "data/processed_data/daily_steps_aggregated.csv")
+# Export
+write_csv(daily_steps, "data/processed_data/daily_steps_aggregated.csv")
+
+
