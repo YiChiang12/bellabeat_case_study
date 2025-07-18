@@ -103,7 +103,7 @@ any(is.na(daily_activity))
 
 ---
 
-🔗 **[← Back to Step 2: Prepare](step2_prepare.md) | 🔜 **[Next: Step 4: Analyze →](step4_analyze.md)**
+🔗 **[← Back to Step 2: Prepare](step2_prepare.md)** | 🔜 **[Next: Step 4: Analyze →](step4_analyze.md)**
 
 ---
 

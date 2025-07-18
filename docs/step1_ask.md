@@ -61,7 +61,7 @@ To structure this analysis, I will produce the following deliverables:
 ---
 
 <!-- 🔗 **[Back to Index](index.md)** | 🔜 **[Next: Step 2 - Prepare](step-2-prepare.md)** -->
-🔗 **[← Back to Step 1: Ask](step1_ask.md)** | 🔜 **[Next: Step 2: Prepare →](step2_prepare.md)**
+🔗 **[← Back to Index](index.md)** | 🔜 **[Next: Step 2: Prepare →](step2_prepare.md)**
 
 ---
 
