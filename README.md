@@ -3,6 +3,17 @@ This repository contains my data analysis case study for Bellabeat, following Go
 
 ---
 
+## Getting Started
+
+To explore this project:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/YiChiang12/bellabeat-case-study.git
+   cd bellabeat_case_study
+
+---
+
 ## Structure
 - **docs/**: Project documentation and reports.
 - **data/**: Original raw datasets.
@@ -11,8 +22,8 @@ This repository contains my data analysis case study for Bellabeat, following Go
 ---
 
 ## Steps Followed
-0. **[Index](/docs/index.md)
-1. **[Ask](/docs/step1_ask.md)**
+0. **[Index](/docs/index.md)** 
+1. **[Ask](/docs/step1_ask.md)** 
 2. **[Prepare](/docs/step2_prepare.md)**
 3. **[Process](/docs/step3_process.md)**
 4. **[Analyze](/docs/step4_analyze.md)**
@@ -32,7 +43,7 @@ This repository contains my data analysis case study for Bellabeat, following Go
 ## Quick Links
 - [Website (GitHub Pages)](https://your-github-username.github.io/bellabeat-case-study/)
 - [Docs folder (detailed steps)](docs/index.md)
-- [Setup instructions](docs/index.md#getting-started)
+<!-- - [Setup instructions](docs/index.md#getting-started) -->
 
 ---
 
