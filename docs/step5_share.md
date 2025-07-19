@@ -39,13 +39,13 @@ In this final step, we summarize findings from the analysis to communicate actio
 
 ## Deliverables
 
-- Visual summaries of key trends: [`Rplots.pdf`](Rplots.pdf)
+- Visual summaries of key trends: [`Rplots_new.pdf`](Rplots_new.pdf)
 - Analysis code: [`analyze.R`](analyze.R)
 - Processed datasets located in: `data/processed_data/`
 
 ---
 
-## Suggested Next Steps
+## Next Steps
 
 1. Present these insights to marketing and product teams.
 2. Build user personas based on behavior clusters.
