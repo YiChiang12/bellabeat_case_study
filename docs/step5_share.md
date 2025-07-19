@@ -47,10 +47,10 @@ In this final step, we summarize findings from the analysis to communicate actio
 
 ## Next Steps
 
-1. Present these insights to marketing and product teams.
-2. Build user personas based on behavior clusters.
-3. Iterate on app feature design and A/B test engagement nudges.
-4. Track post-launch behavior against baseline trends.
+<!-- 1. Present these insights to marketing and product teams. -->
+1. Build user personas based on behavior clusters.
+2. Iterate on app feature design and A/B test engagement nudges.
+3. Track post-launch behavior against baseline trends.
 
 ---
 
