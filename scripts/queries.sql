@@ -1,4 +1,4 @@
--- For Exploratory Analysis
+-- Exploratory Analysis
 
 -- 1. Average steps, calories, and sleep time per user
 SELECT id,
