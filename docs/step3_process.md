@@ -62,6 +62,8 @@ step_levels <- daily_steps %>%
   ))
 ```
 
+> Based on the step-count classification guidelines by Tudor-Locke & Bassett (2004).
+
 ### c. Device Usage Time Classification
 ```r
 activity <- activity %>%
@@ -74,6 +76,8 @@ activity <- activity %>%
          ))
 ```
 
+> Note: 1440 minutes = 24 hours. These thresholds are practical approximations based on daily wearable usage.
+
 ---
 
 ## 3. Processed Outputs
@@ -83,9 +87,10 @@ Cleaned and transformed data files are saved in the following directory:
 ```
 data/
 └── processed-data/
-    ├── daily_steps.csv
-    ├── step_levels.csv
-    ├── activity_usage_flags.csv
+    ├── daily_activity_clean.csv
+    ├── daily_sleep_clean.csv
+    ├── daily_steps_aggregated.csv
+    ├── hourly_steps_clean.csv
     └── merged_activity_sleep.csv
 ```
 
@@ -96,8 +101,8 @@ data/
 ```
 scripts/
 ├── cleaning.R         # General cleaning, validation, formatting
-├── aggregation.R      # Summaries and classification
-└── merging.R          # Dataset joins and output export
+├── merging.R          # Dataset joins and output export
+└── aggregation.R      # Summaries and classification
 ```
 
 ---
@@ -116,9 +121,8 @@ any(is.na(activity))
 
 ---
 
-© [2025] [Yi-Hsuan Chiang].  
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
+© [2025] [Yi-Hsuan Chiang]  
+Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <!-- Command run in Terminal: Rscript scripts/cleaning.R  -->
 

@@ -65,5 +65,5 @@ To structure this analysis, I will produce the following deliverables:
 
 ---
 
-© [2025] [Yi-Hsuan Chiang].  
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+© [2025] [Yi-Hsuan Chiang]  
+Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
