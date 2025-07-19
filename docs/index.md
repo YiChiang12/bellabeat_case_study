@@ -39,6 +39,15 @@ Navigate through the detailed case study:
 
 ---
 
+## Featured Dashboard
+
+Here is a featured snapshot of my Tableau dashboard, showcasing key behavior patterns and trends uncovered through analysis:
+
+[![Bellabeat Insights Dashboard](Bellabeat%20Insights%20Dashboard.png)](https://public.tableau.com/views/BellabeatCaseStudy_17529089502890/Dashboard1)  
+↳ *Click the image above to open the full interactive version on Tableau Public*
+
+---
+
 ## 📁 Data Source
 - Publicly available [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) from Kaggle, licensed under CC0 Public Domain.
 
