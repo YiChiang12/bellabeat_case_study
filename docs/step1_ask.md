@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ask
+---
+
 # Step 1: ASK
 
 The first step of the data analysis process is clearly defining the business task and understanding stakeholder needs to ensure the analysis effectively addresses business goals.

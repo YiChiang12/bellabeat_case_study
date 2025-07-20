@@ -1,4 +1,10 @@
-<!-- Custom Navigation Bar -->
+---
+layout: default
+title: Index
+---
+
+
+<!-- Custom Navigation Bar
 <style>
   .nav-bar {
     background-color: #ffffff;
@@ -29,7 +35,7 @@
   <a href="step4_analyze.md">Analyze</a>
   <a href="step5_share.md">Share</a>
   <a href="step6_act.md">Act</a>
-</div>
+</div> -->
 
 
 # Bellabeat Case Study
