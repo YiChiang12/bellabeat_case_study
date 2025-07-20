@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ask
-permalink: /docs/step1_ask.html
+permalink: /docs/step1_ask/
 ---
 
 # Step 1: ASK

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Share
-permalink: /docs/step5_share.html
+permalink: /docs/step5_share/
 ---
 
 # Step 5: Share Insights

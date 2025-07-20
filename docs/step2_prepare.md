@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prepare
-permalink: /docs/step2_prepare.html
+permalink: /docs/step2_prepare/
 ---
 
 
@@ -23,7 +23,7 @@ The datasets cover activity tracked by Fitbit devices from **33 unique users** o
 
 ### FitabaseData_3.12.16-4.11.16 folder
 
-<div style="overflow-x:auto;">
+<!-- <div style="overflow-x:auto;"> -->
 
 | File Name                         | Description                               | Format        | Size    |
 |----------------------------------|-------------------------------------------|---------------|---------|
@@ -39,7 +39,7 @@ The datasets cover activity tracked by Fitbit devices from **33 unique users** o
 | `minuteStepsNarrow_merged.csv`    | Steps counted every minute                | Long format   | Large   |
 | `weightLogInfo_merged.csv`        | Logged body weight info                   | Long format   | Small   |
 
-</div>
+<!-- </div> -->
 
 
 
