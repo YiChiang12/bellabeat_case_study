@@ -5,12 +5,12 @@ title: Bellabeat Case Study
 
 <!-- Tab Navigation Bar -->
 <nav class="nav-bar">
-  <a href="step1_ask.html">Step 1: Ask</a>
-  <a href="step2_prepare.html">Step 2: Prepare</a>
-  <a href="step3_process.html">Step 3: Process</a>
-  <a href="step4_analyze.html">Step 4: Analyze</a>
-  <a href="step5_share.html">Step 5: Share</a>
-  <a href="step6_act.html">Step 6: Act</a>
+  <a href="step1_ask.md">Ask</a>
+  <a href="step2_prepare.md">Prepare</a>
+  <a href="step3_process.md">Process</a>
+  <a href="step4_analyze.md">Analyze</a>
+  <a href="step5_share.md">Share</a>
+  <a href="step6_act.md">Act</a>
 </nav>
 
 # Bellabeat Case Study
