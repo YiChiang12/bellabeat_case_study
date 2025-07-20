@@ -1,24 +1,28 @@
+<!-- Custom Navigation Bar -->
 <style>
-  .nav-links {
+  .nav-bar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #eee;
+    padding: 16px 0;
     text-align: center;
-    background-color: #f2f2f2;
-    padding: 15px;
-    font-family: sans-serif;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
   }
 
-  .nav-links a {
-    margin: 0 15px;
+  .nav-bar a {
+    margin: 0 20px;
     text-decoration: none;
     color: #e07a5f;
-    font-weight: bold;
+    font-weight: 600;
   }
 
-  .nav-links a:hover {
+  .nav-bar a:hover {
     text-decoration: underline;
+    color: #3d405b;
   }
 </style>
 
-<div class="nav-links">
+<div class="nav-bar">
   <a href="step1_ask.md">Ask</a>
   <a href="step2_prepare.md">Prepare</a>
   <a href="step3_process.md">Process</a>
