@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prepare
-permalink: /step2_prepare
+permalink: /docs/step2_prepare.html
 ---
 
 
