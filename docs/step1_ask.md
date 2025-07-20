@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Step 1: Ask
+title: Ask
 ---
-
 
 # Step 1: ASK
 
@@ -52,11 +51,11 @@ These questions guide the entire data analysis process and define the scope of e
 To structure this analysis, I will produce the following deliverables:
 
 - A statement summarizing the business task (this document).
-- A description of all data sources used (`step-2-prepare.html`).
-- Documentation of cleaning or data manipulation performed (`step-3-process.html`).
-- Summary of the analysis, insights, and patterns identified (`step-4-analyze.html`).
-- Data visualizations clearly communicating the findings (`step-5-share.html`).
-- Strategic high-level recommendations for Bellabeat’s marketing (`step-6-act.html`).
+- A description of all data sources used (`step-2-prepare.md`).
+- Documentation of cleaning or data manipulation performed (`step-3-process.md`).
+- Summary of the analysis, insights, and patterns identified (`step-4-analyze.md`).
+- Data visualizations clearly communicating the findings (`step-5-share.md`).
+- Strategic high-level recommendations for Bellabeat’s marketing (`step-6-act.md`).
 
 ---
 
@@ -66,8 +65,8 @@ To structure this analysis, I will produce the following deliverables:
 
 ---
 
-<!-- 🔗 **[Back to Index](index.html)** | 🔜 **[Next: Step 2 - Prepare](step-2-prepare.html)** -->
-🔗 **[← Back to Index](index.html)** | 🔜 **[Next: Step 2: Prepare →](step2_prepare.html)**
+<!-- 🔗 **[Back to Index](index.md)** | 🔜 **[Next: Step 2 - Prepare](step-2-prepare.md)** -->
+🔗 **[← Back to Index](index.md)** | 🔜 **[Next: Step 2: Prepare →](step2_prepare.md)**
 
 ---
 

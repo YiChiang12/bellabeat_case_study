@@ -1,8 +1,3 @@
----
-layout: default
-title: Step 5: Share
----
-
 # Step 5: Share Insights
 
 In this final step, we summarize findings from the analysis to communicate actionable recommendations to Bellabeat’s stakeholders.
@@ -59,7 +54,7 @@ In this final step, we summarize findings from the analysis to communicate actio
 
 ---
 
-🔗 **[ ← Back to Step 4: Analyze](step4_analyze.html)** | 🔜 **[Next: Step 6: Act →](step6_act.html)**
+🔗 **[ ← Back to Step 4: Analyze](step4_analyze.md)** | 🔜 **[Next: Step 6: Act →](step6_act.md)**
 
 ---
 

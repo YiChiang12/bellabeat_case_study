@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Step 2: Prepare
+title: Prepare
 ---
-
 
 
 # Step 2: Prepare Data
@@ -79,7 +78,7 @@ str(daily_activity)
 
 ---
 
-🔗 **[← Back to Step 1: Ask](step1_ask.html)** | 🔜 **[Next: Step 3: Process →](step3_process.html)**
+🔗 **[← Back to Step 1: Ask](step1_ask.md)** | 🔜 **[Next: Step 3: Process →](step3_process.md)**
 
 ---
 

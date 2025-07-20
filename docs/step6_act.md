@@ -1,8 +1,3 @@
----
-layout: default
-title: Step 6: Act
----
-
 # Step 6: Act
 
 The final step involves translating analytical insights into concrete business actions. These recommendations aim to help Bellabeat refine its product offerings, engagement strategies, and long-term goals based on data-driven evidence.
@@ -51,7 +46,7 @@ The final step involves translating analytical insights into concrete business a
 
 ---
 
-🔗 **[← Back to Step 5: Share](step5_share.html)**
+🔗 **[← Back to Step 5: Share](step5_share.md)**
 
 ---
 

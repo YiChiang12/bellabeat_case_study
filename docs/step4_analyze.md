@@ -1,8 +1,3 @@
----
-layout: default
-title: Step 4: Analyze
----
-
 # Step 4: Analyze
 
 This step focuses on analyzing the cleaned and aggregated Fitbit data to uncover trends and behaviors that can guide Bellabeat's marketing strategy.
@@ -87,7 +82,7 @@ Summarize insights in a format suitable for Bellabeat’s marketing team:
 
 ---
 
-🔗 **[ ← Back to Step 3: Process](step3_process.html)** | 🔜 **[Next: Step 5: Share →](step5_share.html)**
+🔗 **[ ← Back to Step 3: Process](step3_process.md)** | 🔜 **[Next: Step 5: Share →](step5_share.md)**
 
 ---
 

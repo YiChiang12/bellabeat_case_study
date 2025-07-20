@@ -1,8 +1,3 @@
----
-layout: default
-title: Step 3: Process
----
-
 # Step 3: Process Data
 
 This step involves cleaning, transforming, and preparing the data for further analysis.
@@ -122,7 +117,7 @@ any(is.na(activity))
 
 ---
 
-🔗 **[← Back to Step 2: Prepare](step2_prepare.html)** | 🔜 **[Next: Step 4: Analyze →](step4_analyze.html)**
+🔗 **[← Back to Step 2: Prepare](step2_prepare.md)** | 🔜 **[Next: Step 4: Analyze →](step4_analyze.md)**
 
 ---
 
