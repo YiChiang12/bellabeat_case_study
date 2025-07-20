@@ -1,3 +1,9 @@
+---
+layout: default
+title: Share
+permalink: /docs/step5_share.html
+---
+
 # Step 5: Share Insights
 
 In this final step, we summarize findings from the analysis to communicate actionable recommendations to Bellabeat’s stakeholders.

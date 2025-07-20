@@ -1,0 +1,89 @@
+/* assets/style.css */
+.nav-bar {
+  background-color: #ffffff;
+  border-bottom: 1px solid #ddd;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.nav-bar a {
+  margin: 0 20px;
+  text-decoration: none;
+  color: #3d405b;
+  font-weight: 600;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+.nav-bar a:hover {
+  color: #e07a5f;
+}
+
+.page-content {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
+
+
+
+/* .nav-bar {
+  background-color: #ffffff;
+  border-bottom: 1px solid #ddd;
+  padding: 1rem;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  font-family: 'Segoe UI', sans-serif;
+}
+.nav-bar a {
+  margin: 0 20px;
+  text-decoration: none;
+  color: #e07a5f;
+  font-weight: 600;
+  font-size: 16px;
+}
+.nav-bar a:hover {
+  text-decoration: underline;
+  color: #3d405b;
+} */
+
+
+
+
+
+
+
+
+
+
+/* 
+.nav-bar {
+  background: #fff;
+  padding: 1rem;
+  border-bottom: 1px solid #eaeaea;
+  text-align: center;
+  font-family: system-ui, sans-serif;
+}
+.nav-bar a {
+  margin: 0 15px;
+  color: #e07a5f;
+  text-decoration: none;
+  font-weight: bold;
+}
+.nav-bar a:hover {
+  color: #3d405b;
+  text-decoration: underline;
+}
+.content {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+} */

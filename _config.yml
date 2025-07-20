@@ -1,6 +1,4 @@
-# theme: minima
-
-jekyll-theme-cayman 
-# jekyll-theme-slate 
-# jekyll-theme-modernist
-# jekyll-theme-time-machine
+title: Bellabeat Case Study
+description: A portfolio-style site by Yi-Hsuan Chiang
+theme: minima
+baseurl: "/bellabeat_case_study"

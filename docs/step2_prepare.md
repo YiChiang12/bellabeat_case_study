@@ -1,3 +1,10 @@
+---
+layout: default
+title: Prepare
+permalink: /docs/step2_prepare.html
+---
+
+
 # Step 2: Prepare Data
 
 The preparation phase involves identifying and collecting relevant data, ensuring credibility, and understanding the dataset structure.
@@ -15,22 +22,6 @@ The datasets cover activity tracked by Fitbit devices from **33 unique users** o
 ## 2. Dataset Overview
 
 ### FitabaseData_3.12.16-4.11.16 folder
-| File Name                    | Description                          | Format      | Size     |
-|-----------------------------|--------------------------------------|-------------|----------|
-| dailyActivity_merged.csv    | Daily activity summaries             | Long format | Moderate |
-| heartrate_seconds_merged.csv| Heart rate data recorded every second| Long format | Large    |
-| hourlyCalories_merged.csv   | Calories burned hourly               | Long format | Moderate |
-| hourlyIntensities_merged.csv| Intensity of activities hourly       | Long format | Moderate |
-| hourlySteps_merged.csv      | Steps counted hourly                 | Long format | Moderate |
-| minuteCaloriesNarrow_merged.csv | Minute-by-minute calories data | Long format | Large    |
-| minuteIntensitiesNarrow_merged.csv | Minute-level activity intensities | Long format | Large |
-| minuteMETsNarrow_merged.csv | Minute-by-minute METs data           | Long format | Large    |
-| minuteSleep_merged.csv      | Minute-level sleep tracking          | Long format | Moderate |
-| minuteStepsNarrow_merged.csv| Steps counted every minute           | Long format | Large    |
-| weightLogInfo_merged.csv    | Logged body weight info              | Long format | Small    |
-
-
-<!-- 
 | File Name                         | Description                               | Format        | Size    |
 |-----------------------------------|-------------------------------------------|---------------|---------|
 | `dailyActivity_merged.csv`        | Daily activity summaries                  | Long format   | Moderate|
@@ -43,7 +34,7 @@ The datasets cover activity tracked by Fitbit devices from **33 unique users** o
 | `minuteMETsNarrow_merged.csv`     | Minute-by-minute METs data                | Long format   | Large   |
 | `minuteSleep_merged.csv`          | Minute-level sleep tracking               | Long format   | Moderate|
 | `minuteStepsNarrow_merged.csv`    | Steps counted every minute                | Long format   | Large   |
-| `weightLogInfo_merged.csv`        | Logged body weight info                   | Long format   | Small   | -->
+| `weightLogInfo_merged.csv`        | Logged body weight info                   | Long format   | Small   |
 
 ### FitabaseData_4.12.16-5.12.16 folder
 Additional files with similar content (April-May data).
