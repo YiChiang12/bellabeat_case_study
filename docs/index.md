@@ -44,7 +44,7 @@ Navigate through the detailed case study:
 Here is a featured snapshot of my Tableau dashboard, showcasing key behavior patterns and trends uncovered through analysis:
 
 [![Bellabeat Insights Dashboard](assets/images/Bellabeat_insights_dashboard.png)
-](https://public.tableau.com/views/BellabeatCaseStudy_17529089502890/Dashboard1)  
+](https://public.tableau.com/views/bellabeatCaseStudy_17529089502890/Dashboard1)  
 ↳ *Click the image above to open the full interactive version on Tableau Public*
 
 ---
