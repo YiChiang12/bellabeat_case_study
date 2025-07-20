@@ -1,3 +1,33 @@
+<style>
+  .nav-links {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 15px;
+    font-family: sans-serif;
+  }
+
+  .nav-links a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #e07a5f;
+    font-weight: bold;
+  }
+
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<div class="nav-links">
+  <a href="step1_ask.md">Ask</a>
+  <a href="step2_prepare.md">Prepare</a>
+  <a href="step3_process.md">Process</a>
+  <a href="step4_analyze.md">Analyze</a>
+  <a href="step5_share.md">Share</a>
+  <a href="step6_act.md">Act</a>
+</div>
+
+
 # Bellabeat Case Study
 <!-- ![Bellabeat](assets/images/bellabeat.png) -->
 
