@@ -29,7 +29,11 @@
   font-family: 'Segoe UI', sans-serif;
 }
 
-
+table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}
 
 
 

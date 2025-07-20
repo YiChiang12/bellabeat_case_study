@@ -23,6 +23,8 @@ The datasets cover activity tracked by Fitbit devices from **33 unique users** o
 
 ### FitabaseData_3.12.16-4.11.16 folder
 
+<div style="overflow-x:auto;">
+
 | File Name                         | Description                               | Format        | Size    |
 |----------------------------------|-------------------------------------------|---------------|---------|
 | `dailyActivity_merged.csv`        | Daily activity summaries                  | Long format   | Moderate|
@@ -36,6 +38,9 @@ The datasets cover activity tracked by Fitbit devices from **33 unique users** o
 | `minuteSleep_merged.csv`          | Minute-level sleep tracking               | Long format   | Moderate|
 | `minuteStepsNarrow_merged.csv`    | Steps counted every minute                | Long format   | Large   |
 | `weightLogInfo_merged.csv`        | Logged body weight info                   | Long format   | Small   |
+
+</div>
+
 
 
 ### FitabaseData_4.12.16-5.12.16 folder
