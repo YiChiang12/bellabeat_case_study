@@ -16,7 +16,7 @@ title: Bellabeat Case Study
 # Bellabeat Case Study
 <!-- ![Bellabeat](assets/images/bellabeat.png) -->
 
-<img src="/assets/images/bellabeat.png" alt="Bellabeat" width="400"/>
+<img src="assets/images/bellabeat.png" alt="Bellabeat" width="400"/>
 
 
 Welcome to my Bellabeat Data Analysis Case Study! This project demonstrates my ability to perform structured data preparation, analysis, visualization and deliver actionable insights aligned with real-world business objectives.
@@ -41,12 +41,12 @@ Bellabeat wants to understand how consumers utilize non-Bellabeat smart wellness
 ## Project Structure
 Navigate through the detailed case study:
 
-- **[Step 1: Ask](step1_ask/)** – Define business goals clearly.
-- **[Step 2: Prepare](step2_prepare/)** – Data sourcing, evaluation, and initial exploration.
-- **[Step 3: Process](step3_process/)** – Data cleaning and transformation.
-- **[Step 4: Analyze](step4_analyze/)** – Statistical analysis and insights.
-- **[Step 5: Share](step5_share/)** – Visualizations and communicating findings.
-- **[Step 6: Act](step6_act/)** – Actionable recommendations and strategic decisions.
+- **[Step 1: Ask](/docs/step1_ask/)** – Define business goals clearly.
+- **[Step 2: Prepare](/docs/step2_prepare/)** – Data sourcing, evaluation, and initial exploration.
+- **[Step 3: Process](/docs/step3_process/)** – Data cleaning and transformation.
+- **[Step 4: Analyze](/docs/step4_analyze/)** – Statistical analysis and insights.
+- **[Step 5: Share](/docs/step5_share/)** – Visualizations and communicating findings.
+- **[Step 6: Act](/docs/step6_act/)** – Actionable recommendations and strategic decisions.
 
 ---
 
@@ -62,7 +62,7 @@ Navigate through the detailed case study:
 
 Here is a featured snapshot of my Tableau dashboard, showcasing key behavior patterns and trends uncovered through analysis:
 
-[![Bellabeat Insights Dashboard](/assets/images/bellabeat_insights_dashboard.png)
+[![Bellabeat Insights Dashboard](assets/images/bellabeat_insights_dashboard.png)
 ](https://public.tableau.com/views/BellabeatCaseStudy_17529089502890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 ↳ *Click the image above to open the full interactive version on Tableau Public*
 
@@ -73,7 +73,7 @@ Here is a featured snapshot of my Tableau dashboard, showcasing key behavior pat
 
 ---
 
-🔗 🔜 **[Next: Step 1: Ask](step1_ask.md)**
+🔗 🔜 **[Next: Step 1: Ask](/docs/step1_ask.md)**
 
 
 ## Author
