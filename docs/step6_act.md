@@ -54,6 +54,8 @@ The final step involves translating analytical insights into concrete business a
 
 🔗 **[← Back to Step 5: Share](step5_share.md)**
 
+ **[Go to Index →](index.md)**
+
 ---
 
 © [2025] [Yi-Hsuan Chiang]  
