@@ -1,4 +1,5 @@
 # Bellabeat Case Study
+![Bellabeat](assets/images/bellabeat.png)
 
 Welcome to my Bellabeat Data Analysis Case Study! This project demonstrates my ability to perform structured data preparation, analysis, visualization and deliver actionable insights aligned with real-world business objectives.
 
