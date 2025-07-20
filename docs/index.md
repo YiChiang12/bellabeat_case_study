@@ -1,7 +1,7 @@
 # Bellabeat Case Study
 <!-- ![Bellabeat](assets/images/bellabeat.png) -->
 
-<img src="assets/images/bellabeat.png" alt="Bellabeat" width="300"/>
+<img src="assets/images/bellabeat.png" alt="Bellabeat" width="450"/>
 
 
 Welcome to my Bellabeat Data Analysis Case Study! This project demonstrates my ability to perform structured data preparation, analysis, visualization and deliver actionable insights aligned with real-world business objectives.
