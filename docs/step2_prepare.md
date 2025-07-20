@@ -1,9 +1,3 @@
----
-layout: default
-title: Prepare
----
-
-
 # Step 2: Prepare Data
 
 The preparation phase involves identifying and collecting relevant data, ensuring credibility, and understanding the dataset structure.

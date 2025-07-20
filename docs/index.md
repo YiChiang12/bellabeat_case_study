@@ -1,18 +1,3 @@
----
-layout: default
-title: Bellabeat Case Study
----
-
-<!-- Tab Navigation Bar -->
-<!-- <nav class="nav-bar">
-  <a href="step1_ask.md">Ask</a>
-  <a href="step2_prepare.md">Prepare</a>
-  <a href="step3_process.md">Process</a>
-  <a href="step4_analyze.md">Analyze</a>
-  <a href="step5_share.md">Share</a>
-  <a href="step6_act.md">Act</a>
-</nav> -->
-
 # Bellabeat Case Study
 <!-- ![Bellabeat](assets/images/bellabeat.png) -->
 
@@ -73,7 +58,7 @@ Here is a featured snapshot of my Tableau dashboard, showcasing key behavior pat
 
 ---
 
-🔗 🔜 **[Next: Step 1: Ask](step1_ask)**
+🔗 🔜 **[Next: Step 1: Ask](step1_ask.md)**
 
 
 ## Author

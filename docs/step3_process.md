@@ -1,8 +1,3 @@
----
-layout: default
-title: Process
----
-
 # Step 3: Process Data
 
 This step involves cleaning, transforming, and preparing the data for further analysis.
