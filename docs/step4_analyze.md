@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Analyze
-permalink: /docs/step4_analyze/
+permalink: /step4_analyze/
 ---
 
 # Step 4: Analyze

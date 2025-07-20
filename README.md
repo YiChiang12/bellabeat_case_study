@@ -17,7 +17,7 @@ To explore this project:
 3. **(Optional)** Run analysis locally using scripts in the `scripts/` folder and data from `data/raw-data/`.
 
 4. **View the published site**:  
-   [https://YiChiang12.github.io/bellabeat-case-study](https://YiChiang12.github.io/bellabeat-case-study)
+   [https://yichiang12.github.io/bellabeat_case_study/](https://yichiang12.github.io/bellabeat_case_study/)
 
 ---
 

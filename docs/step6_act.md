@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Act
-permalink: /docs/step6_act/
+permalink: /step6_act/
 ---
 
 # Step 6: Act
