@@ -50,7 +50,7 @@ To explore this project:
 ## Quick Links
 - [Website (GitHub Pages)](https://your-github-username.github.io/bellabeat-case-study/)
 - [Docs folder (detailed steps)](docs/index.md)
-- 
+
 <!-- - [Setup instructions](docs/index.md#getting-started) -->
 
 ---

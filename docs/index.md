@@ -1,4 +1,4 @@
-# 📌 Bellabeat Case Study
+# Bellabeat Case Study
 
 Welcome to my Bellabeat Data Analysis Case Study! This project demonstrates my ability to perform structured data preparation, analysis, visualization and deliver actionable insights aligned with real-world business objectives.
 
@@ -19,7 +19,7 @@ Bellabeat wants to understand how consumers utilize non-Bellabeat smart wellness
 
 ---
 
-## 🔖 Project Structure
+## Project Structure
 Navigate through the detailed case study:
 
 - **[Step 1: Ask](step1_ask.md)** – Define business goals clearly.
@@ -31,7 +31,7 @@ Navigate through the detailed case study:
 
 ---
 
-## 🛠 Tools and Technologies Used
+## Tools and Technologies Used
 - **R** (Data cleaning, exploratory analysis)
 - **SQL** (Data querying and transformation)
 - **Tableau/ggplot2** (Visualization and storytelling)
@@ -44,21 +44,21 @@ Navigate through the detailed case study:
 Here is a featured snapshot of my Tableau dashboard, showcasing key behavior patterns and trends uncovered through analysis:
 
 [![Bellabeat Insights Dashboard](assets/images/Bellabeat_insights_dashboard.png)
-](https://public.tableau.com/views/bellabeatCaseStudy_17529089502890/Dashboard1)  
+](https://public.tableau.com/views/BellabeatCaseStudy_17529089502890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 ↳ *Click the image above to open the full interactive version on Tableau Public*
 
 ---
 
-## 📁 Data Source
+## Data Source
 - Publicly available [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) from Kaggle, licensed under CC0 Public Domain.
 
 ---
 
-## 👩‍💻 Author
+## Author
 [Yi-Hsuan Chiang](https://github.com/YiChiang12)
 
 ---
 
-## 📜 License
+## License
 © [2025] [Yi-Hsuan Chiang]  
 Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
