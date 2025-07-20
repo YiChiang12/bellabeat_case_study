@@ -3,7 +3,9 @@
   background-color: #ffffff;
   border-bottom: 1px solid #ddd;
   padding: 20px;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
   font-family: 'Segoe UI', sans-serif;
 }
 

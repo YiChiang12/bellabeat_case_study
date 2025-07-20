@@ -4,14 +4,14 @@ title: Bellabeat Case Study
 ---
 
 <!-- Tab Navigation Bar -->
-<nav class="nav-bar">
+<!-- <nav class="nav-bar">
   <a href="step1_ask.md">Ask</a>
   <a href="step2_prepare.md">Prepare</a>
   <a href="step3_process.md">Process</a>
   <a href="step4_analyze.md">Analyze</a>
   <a href="step5_share.md">Share</a>
   <a href="step6_act.md">Act</a>
-</nav>
+</nav> -->
 
 # Bellabeat Case Study
 <!-- ![Bellabeat](assets/images/bellabeat.png) -->
