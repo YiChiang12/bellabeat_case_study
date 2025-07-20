@@ -1,4 +1,37 @@
+/* assets/style.css */
 .nav-bar {
+  background-color: #ffffff;
+  border-bottom: 1px solid #ddd;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.nav-bar a {
+  margin: 0 20px;
+  text-decoration: none;
+  color: #3d405b;
+  font-weight: 600;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+.nav-bar a:hover {
+  color: #e07a5f;
+}
+
+.page-content {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
+
+
+
+/* .nav-bar {
   background-color: #ffffff;
   border-bottom: 1px solid #ddd;
   padding: 1rem;
@@ -18,7 +51,7 @@
 .nav-bar a:hover {
   text-decoration: underline;
   color: #3d405b;
-}
+} */
 
 
 
