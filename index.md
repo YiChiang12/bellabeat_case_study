@@ -41,12 +41,12 @@ Bellabeat wants to understand how consumers utilize non-Bellabeat smart wellness
 ## Project Structure
 Navigate through the detailed case study:
 
-- **[Step 1: Ask](step1_ask.md)** – Define business goals clearly.
-- **[Step 2: Prepare](step2_prepare.md)** – Data sourcing, evaluation, and initial exploration.
-- **[Step 3: Process](step3_process.md)** – Data cleaning and transformation.
-- **[Step 4: Analyze](step4_analyze.md)** – Statistical analysis and insights.
-- **[Step 5: Share](step5_share.md)** – Visualizations and communicating findings.
-- **[Step 6: Act](step6_act.md)** – Actionable recommendations and strategic decisions.
+- **[Step 1: Ask](step1_ask/)** – Define business goals clearly.
+- **[Step 2: Prepare](step2_prepare/)** – Data sourcing, evaluation, and initial exploration.
+- **[Step 3: Process](step3_process/)** – Data cleaning and transformation.
+- **[Step 4: Analyze](step4_analyze/)** – Statistical analysis and insights.
+- **[Step 5: Share](step5_share/)** – Visualizations and communicating findings.
+- **[Step 6: Act](step6_act/)** – Actionable recommendations and strategic decisions.
 
 ---
 
