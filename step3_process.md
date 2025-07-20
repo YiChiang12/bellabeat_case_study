@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Process
-permalink: /docs/step3_process.html
+permalink: /step3_process
 ---
 
 # Step 3: Process Data

@@ -16,7 +16,7 @@ title: Bellabeat Case Study
 # Bellabeat Case Study
 <!-- ![Bellabeat](assets/images/bellabeat.png) -->
 
-<img src="assets/images/bellabeat.png" alt="Bellabeat" width="400"/>
+<img src="/assets/images/bellabeat.png" alt="Bellabeat" width="400"/>
 
 
 Welcome to my Bellabeat Data Analysis Case Study! This project demonstrates my ability to perform structured data preparation, analysis, visualization and deliver actionable insights aligned with real-world business objectives.
@@ -62,7 +62,7 @@ Navigate through the detailed case study:
 
 Here is a featured snapshot of my Tableau dashboard, showcasing key behavior patterns and trends uncovered through analysis:
 
-[![Bellabeat Insights Dashboard](assets/images/bellabeat_insights_dashboard.png)
+[![Bellabeat Insights Dashboard](/assets/images/bellabeat_insights_dashboard.png)
 ](https://public.tableau.com/views/BellabeatCaseStudy_17529089502890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 ↳ *Click the image above to open the full interactive version on Tableau Public*
 
