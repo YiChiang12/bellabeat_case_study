@@ -29,13 +29,13 @@ To explore this project:
 ---
 
 ## Steps Followed
-0. **[Index](/docs/index.md)**
-1. **[Ask](/docs/step1_ask.md)**
-2. **[Prepare](/docs/step2_prepare.md)**
-3. **[Process](/docs/step3_process.md)**
-4. **[Analyze](/docs/step4_analyze.md)**
-5. **[Share](/docs/step5_share.md)**
-6. **[Act](/docs/step6_act.md)**
+1. **[Index](/index.md)**
+2. **[Ask](/step1_ask.md)**
+3. **[Prepare](/step2_prepare.md)**
+4. **[Process](/step3_process.md)**
+5. **[Analyze](/step4_analyze.md)**
+6. **[Share](/step5_share.md)**
+7. **[Act](/step6_act.md)**
 
 ---
 
@@ -49,7 +49,7 @@ To explore this project:
 
 ## Quick Links
 - [Website (GitHub Pages)](https://your-github-username.github.io/bellabeat-case-study/)
-- [Docs folder (detailed steps)](docs/index.md)
+- [Docs folder (detailed steps)](index.md)
 
 <!-- - [Setup instructions](docs/index.md#getting-started) -->
 
