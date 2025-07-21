@@ -41,6 +41,7 @@ pre {
   border-radius: 5px;
   overflow-x: auto;
   font-size: 14px;
+  margin: 20px 0;
 }
 
 pre code {
@@ -62,18 +63,19 @@ table, th, td {
 }
 
 th, td {
+  boarder: 1px solid #ccc;
   padding: 10px;
   text-align: left;
 }
 
 /* Wrapper for visual framing */
-.framed-table {
+/* .framed-table {
   border: 1px solid #aaa;
   border-radius: 6px;
   padding: 0;
   margin: 20px 0;
   background: #f9f9f9;
-}
+} */
 
 /* Add border around images or charts */
 img, iframe, .chart {
@@ -88,10 +90,14 @@ img, iframe, .chart {
 }
 
 /* Inline navigation links (like ← Back / Next →) */
-.page-content p a {
-  border: none;
-  padding: 0;
-  margin: 0;
+.page-content p a,
+.page-content p {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  background: none !important;
+  display: inline !important;
+  box-shadow: none !important;
 }
 
 /* .nav-bar {
