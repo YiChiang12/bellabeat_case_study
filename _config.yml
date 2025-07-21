@@ -5,14 +5,18 @@ baseurl: "/bellabeat_case_study"
 markdown: kramdown
 kramdown:
   input: GFM
+
+source: docs
+include:
+  - _layouts
+  - assets
+
 defaults:
   - scope:
       path: ""
     values:
       layout: default
-include:
-  - docs
-source: docs
+
 
 
 # title: Bellabeat Case Study
