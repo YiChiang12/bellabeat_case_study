@@ -28,6 +28,12 @@
   line-height: 1.6;
 }
 
+/* Center standalone images*/
+.page-content img {
+  display: block;
+  margin: 20px auto;
+}
+
 /* Center the homepage title */
 .page-content h1 {
   text-align: center;
@@ -56,8 +62,17 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin: 20px 0;
-  border: none;
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
 }
+
+/* table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  border: none;
+} */
 
 /* table, th, td {
   border: 1px solid #ccc;
@@ -134,14 +149,14 @@ p, div, span {
 }
 
 /* Remove ALL borders from nav containers like table/td/div that wrap nav links */
-.page-content table,
+/* .page-content table,
 .page-content table * {
   border: none !important;
   background: none !important;
   box-shadow: none !important;
   padding: 0 !important;
   margin: 0 !important;
-}
+} */
 
 
 /* .nav-bar {

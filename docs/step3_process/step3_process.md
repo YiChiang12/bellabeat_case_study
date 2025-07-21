@@ -127,7 +127,7 @@ any(is.na(activity))
 
 <div style="display: flex; justify-content: space-between;">
   <span>🔗 <a href="../step2_prepare/">← Back to Step 2: Prepare</a></span>
-  <span>🔜 <a href="../step2_prepare/">Next: Step 2: Prepare →</a></span>
+  <span>🔜 <a href="../step4_analyze/">Next: Step 4: Analyze →</a></span>
 </div>
 
 ---
