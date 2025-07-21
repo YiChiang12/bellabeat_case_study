@@ -52,7 +52,7 @@ The final step involves translating analytical insights into concrete business a
 
 ---
 
-🔗 **[← Back to Step 5: Share](step5_share.md)**
+🔗 **[← Back to Step 5: Share](../step5_share/)**
 
  **[Go to Index →](../index.md)**
 

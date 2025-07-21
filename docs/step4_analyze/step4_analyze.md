@@ -88,7 +88,7 @@ Summarize insights in a format suitable for Bellabeat’s marketing team:
 
 ---
 
-🔗 **[ ← Back to Step 3: Process](step3_process.md)** | 🔜 **[Next: Step 5: Share →](step5_share.md)**
+🔗 **[ ← Back to Step 3: Process](../step3_process/)** | 🔜 **[Next: Step 5: Share →](../step5_share/)**
 
 ---
 

@@ -52,11 +52,11 @@ These questions guide the entire data analysis process and define the scope of e
 To structure this analysis, I will produce the following deliverables:
 
 - A statement summarizing the business task (this document).
-- A description of all data sources used (`../step2_prepare/`).
-- Documentation of cleaning or data manipulation performed (`../step3_process/`).
-- Summary of the analysis, insights, and patterns identified (`../step4_analyze/`).
-- Data visualizations clearly communicating the findings (`../step5_share/`).
-- Strategic high-level recommendations for Bellabeat’s marketing (`../step6_act/`).
+- A description of all data sources used (`step2_prepare.md`).
+- Documentation of cleaning or data manipulation performed (`step3_process.md`).
+- Summary of the analysis, insights, and patterns identified (`step4_analyze.md`).
+- Data visualizations clearly communicating the findings (`step5_share.md`).
+- Strategic high-level recommendations for Bellabeat’s marketing (`step6_act.md`).
 
 ---
 

@@ -30,12 +30,12 @@ To explore this project:
 
 ## Steps Followed
 0. **[Index](/docs/index.md)**
-1. **[Ask](/docs/step1_ask.md)**
-2. **[Prepare](/docs/step2_prepare.md)**
-3. **[Process](/docs/step3_process.md)**
-4. **[Analyze](/docs/step4_analyze.md)**
-5. **[Share](/docs/step5_share.md)**
-6. **[Act](/docs/step6_act.md)**
+1. **[Ask](/docs/step1_ask/index.md)**
+2. **[Prepare](/docs/step2_prepare/index.md)**
+3. **[Process](/docs/step3_process/index.md)**
+4. **[Analyze](/docs/step4_analyze/index.md)**
+5. **[Share](/docs/step5_share/index.md)**
+6. **[Act](/docs/step6_act/index.md)**
 
 ---
 
@@ -48,7 +48,7 @@ To explore this project:
 ---
 
 ## Quick Links
-- [Website (GitHub Pages)](https://your-github-username.github.io/bellabeat-case-study/)
+- [Website (GitHub Pages)](https://yichiang12.github.io/bellabeat_case_study/)
 - [Docs folder (detailed steps)](docs/index.md)
 
 <!-- - [Setup instructions](docs/index.md#getting-started) -->
