@@ -60,7 +60,7 @@ In this final step, we summarize findings from the analysis to communicate actio
 
 ---
 
-🔗 **[ ← Back to Step 4: Analyze](step4_analyze.md)** | 🔜 **[Next: Step 6: Act →](step6_act.md)**
+🔗 **[ ← Back to Step 4: Analyze](../step4_analyze/)** | 🔜 **[Next: Step 6: Act →](../step6_act/)**
 
 ---
 

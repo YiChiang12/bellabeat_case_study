@@ -86,7 +86,7 @@ str(daily_activity)
 
 ---
 
-🔗 **[← Back to Step 1: Ask](step1_ask.md)** | 🔜 **[Next: Step 3: Process →](step3_process.md)**
+🔗 **[← Back to Step 1: Ask](../step1_ask/)** | 🔜 **[Next: Step 3: Process →](../step3_process/)**
 
 ---
 
