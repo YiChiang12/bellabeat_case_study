@@ -89,31 +89,6 @@ th, td {
   padding: 0;
 } */
 
-/* Navigation layout with flexbox */
-.nav-links {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-
-/* Remove borders from all nav-related wrappers */
-.nav-links, .nav-links * {
-  border: none !important;
-  background: none !important;
-  box-shadow: none !important;
-  padding: 0 !important;
-  margin: 0 !important;
-}
-
-/* style the links */
-.nav-links a {
-  font-weight: bold;
-  text-decoration: underline;
-  color: #5e3aee;
-}
-
-
 p, div, span {
   border: none !important;
   box-shadow: none !important;
@@ -132,17 +107,6 @@ p, div, span {
   margin: 0 !important;
   box-shadow: none !important;
 }
-
-/* Remove ALL borders from nav containers like table/td/div that wrap nav links */
-.page-content table,
-.page-content table * {
-  border: none !important;
-  background: none !important;
-  box-shadow: none !important;
-  padding: 0 !important;
-  margin: 0 !important;
-}
-
 
 /* .nav-bar {
   background-color: #ffffff;
