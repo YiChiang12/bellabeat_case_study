@@ -89,8 +89,8 @@ str(daily_activity)
 <!-- 🔗 **[← Back to Step 1: Ask](../step1_ask/)** | 🔜 **[Next: Step 3: Process →](../step3_process/)** -->
 
 <div style="display: flex; justify-content: space-between;">
-  <span>🔗 <a href="../step1_ask/"><strong>← Back to Step 1: Ask<strong></a></span>
-  <span>🔜 <a href="../step3_process/"><strong>Next: Step 3: Process →<strong></a></span>
+  <span>🔗 <a href="../step1_ask/">← Back to Step 1: Ask</a></span>
+  <span>🔜 <a href="../step3_process/">Next: Step 3: Process →</a></span>
 </div>
 
 ---

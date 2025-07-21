@@ -126,8 +126,8 @@ any(is.na(activity))
 <!-- 🔗 **[← Back to Step 2: Prepare](../step2_prepare/)** | 🔜 **[Next: Step 4: Analyze →](../step4_analyze/)** -->
 
 <div style="display: flex; justify-content: space-between;">
-  <span>🔗 <a href="../step2_prepare/"><strong>← Back to Step 2: Prepare<strong></a></span>
-  <span>🔜 <a href="../step4_analyze/"><strong>Next: Step 4: Analyze →<strong></a></span>
+  <span>🔗 <a href="../step2_prepare/">← Back to Step 2: Prepare</a></span>
+  <span>🔜 <a href="../step4_analyze/">Next: Step 4: Analyze →</a></span>
 </div>
 
 ---
