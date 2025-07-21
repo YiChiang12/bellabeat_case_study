@@ -48,7 +48,7 @@ Navigate through the detailed case study:
 
 ---
 
-## Featured Dashboard
+## Featured Dashboard on Tableau
 
 Here is a featured snapshot of my Tableau dashboard, showcasing key behavior patterns and trends uncovered through analysis:
 
