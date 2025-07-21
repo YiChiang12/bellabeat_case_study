@@ -91,8 +91,8 @@ Summarize insights in a format suitable for Bellabeat’s marketing team:
 <!-- 🔗 **[← Back to Step 3: Process](../step3_process/)** | 🔜 **[Next: Step 5: Share →](../step5_share/)** -->
 
 <div style="display: flex; justify-content: space-between;">
-  <span>🔗 <a href="../step3_process/">← Back to Step 3: Process</a></span>
-  <span>🔜 <a href="../step5_share/">Next: Step 5: Share →</a></span>
+  <span>🔗 <a href="../step3_process/"><strong>← Back to Step 3: Process<strong></a></span>
+  <span>🔜 <a href="../step5_share/"><strong>Next: Step 5: Share →<strong></a></span>
 </div>
 
 ---

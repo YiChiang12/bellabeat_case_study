@@ -79,7 +79,7 @@ Here is a featured snapshot of my Tableau dashboard, showcasing key behavior pat
 </div> -->
 
 <div style="text-align: right;">
-  🔜 <a href="step1_ask/">Next: Step 1: Ask →</a>
+  🔜 <a href="step1_ask/"><strong>Next: Step 1: Ask →<strong></a>
 </div>
 
 
