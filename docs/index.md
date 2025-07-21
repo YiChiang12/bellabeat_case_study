@@ -72,7 +72,7 @@ Here is a featured snapshot of my Tableau dashboard, showcasing key behavior pat
 <!-- 🔗 🔜 **[Next: Step 1: Ask →](step1_ask/)** -->
 
 <div style="text-align: right;">
-  🔜 <a href="{{ 'step1_ask/' | relative_url }}">Next: Step 1: Ask →</a>
+  🔜 <a href="{{ '/step1_ask/' | relative_url }}">Next: Step 1: Ask →</a>
 </div>
 
 
