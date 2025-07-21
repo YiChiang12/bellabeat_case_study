@@ -69,8 +69,7 @@ Here is a featured snapshot of my Tableau dashboard, showcasing key behavior pat
 
 ---
 
-🔗 🔜 **[Next: Step 1: Ask](step1_ask/)**
-
+🔗 🔜 **[Next: Step 1: Ask →](step1_ask/)**
 
 ## Author
 [Yi-Hsuan Chiang](https://github.com/YiChiang12)
