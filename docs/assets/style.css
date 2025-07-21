@@ -28,16 +28,53 @@
   line-height: 1.6;
 }
 
+/* Center the homepage title */
+.page-content h1 {
+  text-align: center;
+}
+
 /* Add border and padding to code blocks */
-pre, code {
+pre {
   background-color: #f4f4f4;
   border: 1px solid #ddd;
-  padding: 10px;
+  padding: 12px;
   border-radius: 5px;
+  overflow-x: auto;
+}
+
+pre code {
+  background: none;
+  border: none;
+  padding: 0;
   font-family: Consolas, monospace;
 }
 
-/* For tables or charts */
+/* Tables with borders */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+/* Wrapper for visual framing */
+.framed-table {
+  border: 1px solid #aaa;
+  border-radius: 6px;
+  padding: 10px;
+  background: #f9f9f9;
+  margin: 20px 0;
+}
+
+/* Add border around images or charts */
 img, iframe, .chart {
   border: 1px solid #ccc;
   border-radius: 6px;
