@@ -5,7 +5,13 @@ This repository contains my data analysis case study for Bellabeat, following Go
 
 ## Getting Started
 
-To explore this project:
+The best way to explore this project is through the live website:
+
+➡️ **[View the Published Case Study Site](https://yichiang12.github.io/bellabeat_case_study/)** — with full navigation and visual layout
+
+---
+
+If you'd like to view or run the files locally:
 
 1. **Clone the repository**:
    ```bash
@@ -16,15 +22,13 @@ To explore this project:
 
 3. **(Optional)** Run analysis locally using scripts in the `scripts/` folder and data from `data/raw_data/`.
 
-4. **View the published site**:  
-   [https://yichiang12.github.io/bellabeat_case_study/](https://yichiang12.github.io/bellabeat_case_study/)
 
 ---
 
 ## Structure
-- **docs/**: Project documentation and reports.
-- **data/**: Original raw and processed datasets.
-- **scripts/**: R and SQL scripts for data processing and analysis.
+- **docs/**: Project documentation and report pages (rendered via GitHub Pages)
+- **data/**: Original raw and processed datasets
+- **scripts/**: R and SQL scripts used for data processing and analysis
 
 ---
 
@@ -41,15 +45,15 @@ To explore this project:
 
 ## Tools Used
 - **R** (data cleaning & analysis)
-- **SQL** (data querying)
+- **SQL** (data querying and transformation)
 - **Tableau/ggplot2** (visualizations and storytelling)
-- **Excel/Google Sheets** (quick data inspections)
+- **Excel/Google Sheets** (quick data inspections and exploration)
 
 ---
 
 ## Quick Links
-- [Website (GitHub Pages)](https://yichiang12.github.io/bellabeat_case_study/)
-- [Docs folder (detailed steps)](docs/index.md)
+- **[View Case Study](https://yichiang12.github.io/bellabeat_case_study/)** (recommended)
+- [Browse the docs folder (detailed steps)](docs/index.md)
 
 <!-- - [Setup instructions](docs/index.md#getting-started) -->
 
