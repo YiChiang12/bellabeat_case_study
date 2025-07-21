@@ -13,9 +13,9 @@ In this final step, we summarize findings from the analysis to communicate actio
 ## Key Insights
 
 ### 1. User Activity Levels
-- Majority of users fall into the **Sedentary** and **Lightly Active** categories.
-- Only a small proportion regularly exceed 10,000 steps, suggesting limited high-intensity activity.
-- *Recommendation*: Bellabeat can encourage step goals via reminders, gamification, and tailored milestones.
+- The **Fairly Active** group has the **highest number of users**, surpassing Sedentary, Lightly Active, and Very Active categories.
+- This suggests users are engaging in moderate-intensity activity but may not consistently reach Very Active thresholds.
+- *Recommendation*: Bellabeat can tailor programs to support and reward Fairly Active users to sustain and boost their activity. For Sedentary/Lightly Active groups, introduce gentle challenges and encouragement features to increase engagement.
 
 ### 2. Weekday Behavior Patterns
 - **Steps** and **sleep duration** show consistent patterns:

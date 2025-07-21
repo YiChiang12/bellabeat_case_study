@@ -13,8 +13,8 @@ The final step involves translating analytical insights into concrete business a
 ## Strategic Recommendations
 
 ### 1. Personalized Activity Goals
-- Encourage users in **Sedentary** or **Lightly Active** groups with small, achievable daily step goals.
-- Implement adaptive challenges that grow with user performance.
+- With **Fairly Active** users forming the largest group, offer encouragement to help them maintain or progress to Very Active levels.
+- For Sedentary and Lightly Active users, introduce starter step challenges and celebratory feedback to build consistency.
 
 ### 2. Smart Notifications
 - Send targeted reminders around **12 PM and 6 PM** (the most active hours) to reinforce positive habits.
