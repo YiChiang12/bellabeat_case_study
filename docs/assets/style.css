@@ -52,15 +52,16 @@ pre code {
 }
 
 /* Tables with borders */
-/* table {
+table {
   width: 100%;
   border-collapse: collapse;
   margin: 20px 0;
-} */
-
-table, th, td {
-  border: 1px solid #ccc;
+  border: none;
 }
+
+/* table, th, td {
+  border: 1px solid #ccc;
+} */
 
 th, td {
   border: 1px solid #ccc;
@@ -78,25 +79,32 @@ th, td {
 } */
 
 /* Add border around images or charts */
-img, iframe, .chart {
+/* img, iframe, .chart {
   border: 1px solid #ccc;
   border-radius: 6px;
-  /* padding: 4px; */
   max-width: 100%;
   height: auto;
   display: block;
   margin: 20px auto;
   padding: 0;
+} */
+
+p, div, span {
+  border: none !important;
+  box-shadow: none !important;
 }
 
 /* Inline navigation links (like ← Back / Next →) */
-.page-content p a,
-.page-content p {
+.page-content p:has(a[href*="step1_ask"]),
+.page-content p:has(a[href*="step2_prepare"]),
+.page-content p:has(a[href*="step3_process"]),
+.page-content p:has(a[href*="step4_analyze"]),
+.page-content p:has(a[href*="step5_share"]),
+.page-content p:has(a[href*="step6_act"]) {
   border: none !important;
+  background: none !important;
   padding: 0 !important;
   margin: 0 !important;
-  background: none !important;
-  display: inline !important;
   box-shadow: none !important;
 }
 
