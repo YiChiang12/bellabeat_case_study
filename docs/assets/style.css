@@ -28,6 +28,26 @@
   line-height: 1.6;
 }
 
+/* Add border and padding to code blocks */
+pre, code {
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: Consolas, monospace;
+}
+
+/* For tables or charts */
+img, iframe, .chart {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 4px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
 
 
 /* .nav-bar {
