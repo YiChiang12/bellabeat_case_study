@@ -5,7 +5,13 @@ This repository contains my data analysis case study for Bellabeat, following Go
 
 ## Getting Started
 
-To explore this project:
+The best way to explore this project is through the live website:
+
+➡️ **[View on GitHub Pages](https://yichiang12.github.io/bellabeat_case_study/)** — with full navigation and visual layout
+
+---
+
+If you'd like to view or run the files locally:
 
 1. **Clone the repository**:
    ```bash
@@ -14,42 +20,47 @@ To explore this project:
    ```
 2. **Navigate the analysis** through the `docs/` folder (structured by each case study step).
 
-3. **(Optional)** Run analysis locally using scripts in the `scripts/` folder and data from `data/raw_data/`.
-
-4. **View the published site**:  
-   [https://yichiang12.github.io/bellabeat_case_study/](https://yichiang12.github.io/bellabeat_case_study/)
+3. **(Optional)** Run analysis locally using R and SQL scripts from the `scripts/` folder and datasets from `data/raw_data/`.
 
 ---
 
 ## Structure
-- **docs/**: Project documentation and reports.
-- **data/**: Original raw and processed datasets.
-- **scripts/**: R and SQL scripts for data processing and analysis.
+- **docs/**: Project documentation and report pages (rendered via GitHub Pages)
+- **data/**: Original raw and processed datasets
+- **scripts/**: R and SQL scripts used for data processing and analysis
 
 ---
 
 ## Steps Followed
-0. **[Index](/docs/index.md)**
+0. [Index](https://yichiang12.github.io/bellabeat_case_study/)
+1. [Ask](https://yichiang12.github.io/bellabeat_case_study/step1_ask/)
+2. [Prepare](https://yichiang12.github.io/bellabeat_case_study/step2_prepare/)
+3. [Process](https://yichiang12.github.io/bellabeat_case_study/step3_process/)
+4. [Analyze](https://yichiang12.github.io/bellabeat_case_study/step4_analyze/)
+5. [Share](https://yichiang12.github.io/bellabeat_case_study/step5_share/)
+6. [Act](https://yichiang12.github.io/bellabeat_case_study/step6_act/)
+
+<!-- 0. **[Index](/docs/index.md)**
 1. **[Ask](/docs/step1_ask/step1_ask.md)**
 2. **[Prepare](/docs/step2_prepare/step2_prepare.md)**
 3. **[Process](/docs/step3_process/step3_process.md)**
 4. **[Analyze](/docs/step4_analyze/step4_analyze.md)**
 5. **[Share](/docs/step5_share/step5_share.md)**
-6. **[Act](/docs/step6_act/step6_act.md)**
+6. **[Act](/docs/step6_act/step6_act.md)** -->
 
 ---
 
 ## Tools Used
 - **R** (data cleaning & analysis)
-- **SQL** (data querying)
+- **SQL** (data querying and transformation)
 - **Tableau/ggplot2** (visualizations and storytelling)
-- **Excel/Google Sheets** (quick data inspections)
+- **Excel/Google Sheets** (quick data inspections and exploration)
 
 ---
 
 ## Quick Links
-- [Website (GitHub Pages)](https://yichiang12.github.io/bellabeat_case_study/)
-- [Docs folder (detailed steps)](docs/index.md)
+- **[View Case Study on GitHub Pages](https://yichiang12.github.io/bellabeat_case_study/)** (recommended)
+- [Browse the docs folder (detailed steps)](docs/index.md)
 
 <!-- - [Setup instructions](docs/index.md#getting-started) -->
 
