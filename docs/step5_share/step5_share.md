@@ -45,8 +45,8 @@ In this final step, we summarize findings from the analysis to communicate actio
 
 ## Deliverables
 
-- Visual summaries of key trends: [`Rplots_new.pdf`]({{ '/assets/Rplots_new.pdf' | relative_url }})
-- Analysis code: `scripts/analyze.R`
+- Visual summaries of key trends: [Rplots_new.pdf]({{ '/assets/Rplots_new.pdf' | relative_url }})
+- Analysis code: <code>scripts/analyze.R</code>
 - Processed datasets located in: `data/processed_data/`
 
 <!-- [`analyze.R`](../../scripts/analysis.R) -->
