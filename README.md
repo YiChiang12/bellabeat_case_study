@@ -49,7 +49,7 @@ To explore this project:
 
 ## Quick Links
 - [Website (GitHub Pages)](https://yichiang12.github.io/bellabeat_case_study/)
-- [Docs folder (detailed steps)](docs/index/index.md)
+- [Docs folder (detailed steps)](docs/index.md)
 
 <!-- - [Setup instructions](docs/index.md#getting-started) -->
 
