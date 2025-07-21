@@ -9,12 +9,12 @@ To explore this project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YiChiang12/bellabeat-case-study.git
+   git clone https://github.com/YiChiang12/bellabeat_case_study.git
    cd bellabeat_case_study
    ```
 2. **Navigate the analysis** through the `docs/` folder (structured by each case study step).
 
-3. **(Optional)** Run analysis locally using scripts in the `scripts/` folder and data from `data/raw-data/`.
+3. **(Optional)** Run analysis locally using scripts in the `scripts/` folder and data from `data/raw_data/`.
 
 4. **View the published site**:  
    [https://yichiang12.github.io/bellabeat_case_study/](https://yichiang12.github.io/bellabeat_case_study/)
@@ -30,12 +30,12 @@ To explore this project:
 
 ## Steps Followed
 0. **[Index](/docs/index.md)**
-1. **[Ask](/docs/step1_ask/index.md)**
-2. **[Prepare](/docs/step2_prepare/index.md)**
-3. **[Process](/docs/step3_process/index.md)**
-4. **[Analyze](/docs/step4_analyze/index.md)**
-5. **[Share](/docs/step5_share/index.md)**
-6. **[Act](/docs/step6_act/index.md)**
+1. **[Ask](/docs/step1_ask/step1_ask.md)**
+2. **[Prepare](/docs/step2_prepare/step2_prepare.md)**
+3. **[Process](/docs/step3_process/step3_process.md)**
+4. **[Analyze](/docs/step4_analyze/step4_analyze.md)**
+5. **[Share](/docs/step5_share/step5_share.md)**
+6. **[Act](/docs/step6_act/step6_act.md)**
 
 ---
 
