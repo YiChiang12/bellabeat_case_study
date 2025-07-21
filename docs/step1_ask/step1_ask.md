@@ -69,7 +69,7 @@ To structure this analysis, I will produce the following deliverables:
 <!-- 🔗 **[← Back to Index](../index.md)** | 🔜 **[Next: Step 2: Prepare →](../step2_prepare/)** -->
 
 <div style="display: flex; justify-content: space-between;">
-  <span>🔗 <a href="../index.md">← Home</a></span>
+  <span>🔗 <a href="../">← Home</a></span>
   <span>🔜 <a href="../step2_prepare/">Next: Step 2: Prepare →</a></span>
 </div>
 

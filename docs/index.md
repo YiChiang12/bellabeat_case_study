@@ -75,8 +75,12 @@ Here is a featured snapshot of my Tableau dashboard, showcasing key behavior pat
   🔜 <a href="step1_ask/">Next: Step 1: Ask →</a>
 </div> -->
 
-<div style="text-align: right;">
+<!-- <div style="text-align: right;">
   🔜 <a href="{{ '/step1_ask/' | relative_url }}">Next: Step 1: Ask →</a>
+</div> -->
+
+<div style="text-align: right;">
+  🔜 [Next: Step 1: Ask →](step1_ask/)
 </div>
 
 
