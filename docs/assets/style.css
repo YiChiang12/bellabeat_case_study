@@ -67,16 +67,6 @@ table {
   white-space: nowrap;
 }
 
-/* table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
-  border: none;
-} */
-
-/* table, th, td {
-  border: 1px solid #ccc;
-} */
 
 th, td {
   border: 1px solid #ccc;
@@ -84,25 +74,6 @@ th, td {
   text-align: left;
 }
 
-/* Wrapper for visual framing */
-/* .framed-table {
-  border: 1px solid #aaa;
-  border-radius: 6px;
-  padding: 0;
-  margin: 20px 0;
-  background: #f9f9f9;
-} */
-
-/* Add border around images or charts */
-/* img, iframe, .chart {
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 20px auto;
-  padding: 0;
-} */
 
 /* Navigation layout with flexbox */
 .nav-links {
@@ -148,51 +119,22 @@ p, div, span {
   box-shadow: none !important;
 }
 
-/* Remove ALL borders from nav containers like table/td/div that wrap nav links */
-/* .page-content table,
-.page-content table * {
-  border: none !important;
-  background: none !important;
-  box-shadow: none !important;
-  padding: 0 !important;
-  margin: 0 !important;
-} */
-
-
-/* .nav-bar {
-  background-color: #ffffff;
-  border-bottom: 1px solid #ddd;
-  padding: 20px;
-  display: flex;
-  justify-content: center;
-  gap: 30px;
-  font-family: 'Segoe UI', sans-serif;
-}
-
-.nav-bar a {
-  margin: 0 20px;
-  text-decoration: none;
-  color: #3d405b;
-  font-weight: 600;
-  font-size: 16px;
-  transition: color 0.3s;
-}
-
-.nav-bar a:hover {
-  color: #e07a5f;
-}
-
-.page-content {
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 0 20px;
-  font-family: 'Segoe UI', sans-serif;
-} */
-
 table {
   display: block;
   overflow-x: auto;
   white-space: nowrap;
+}
+
+.page-content a[href*="index.md"]
+.page-content a[href*="step1_ask"],
+.page-content a[href*="step2_prepare"],
+.page-content a[href*="step3_process"],
+.page-content a[href*="step4_analyze"],
+.page-content a[href*="step5_share"],
+.page-content a[href*="step6_act"] {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #e07a5f;
 }
 
 

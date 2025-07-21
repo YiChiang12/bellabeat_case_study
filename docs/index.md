@@ -16,7 +16,7 @@ Bellabeat is a high-tech wellness company creating innovative health-focused pro
 ---
 
 ## Background
-Bellabeat is a high-tech wellness company focused on health-tracking devices for women. Founded by Urška Sršen and Sando Mur, the company seeks to leverage smart device data to improve its marketing strategies and product offerings. Their products include wellness trackers such as Leaf, wellness watches like Time, and hydration-tracking water bottles like Spring.
+Bellabeat is founded by Urška Sršen and Sando Mur, the company seeks to leverage smart device data to improve its marketing strategies and product offerings. Their products include wellness trackers such as Leaf, wellness watches like Time, and hydration-tracking water bottles like Spring.
 
 ## Objectives
 - **Objective 1**: Identify trends in smart device usage.
