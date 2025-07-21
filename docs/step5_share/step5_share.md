@@ -63,7 +63,7 @@ In this final step, we summarize findings from the analysis to communicate actio
 <!-- 🔗 **[← Back to Step 4: Analyze](../step4_analyze/)** | 🔜 **[Next: Step 6: Act →](../step6_act/)** -->
 
 <div style="display: flex; justify-content: space-between;">
-  <span>🔗 ← <a href="../step4_analyze/">← Back to Step 4: Analyze</a></span>
+  <span>🔗 <a href="../step4_analyze/">← Back to Step 4: Analyze</a></span>
   <span>🔜 <a href="../step6_act/">Next: Step 6: Act →</a></span>
 </div>
 

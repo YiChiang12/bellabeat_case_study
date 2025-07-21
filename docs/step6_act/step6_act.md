@@ -58,7 +58,7 @@ The final step involves translating analytical insights into concrete business a
 
  <div style="display: flex; justify-content: space-between;">
    <span>🔗 <a href="../step5_share/">← Back to Step 5: Share</a></span>
-   <span>🔜 <a href="../index.md">Go to Home Page →</a></span>
+   <span>🔜 <a href="../">Go to Home Page →</a></span>
  </div>
 
 ---
