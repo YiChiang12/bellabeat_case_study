@@ -7,7 +7,7 @@ This repository contains my data analysis case study for Bellabeat, following Go
 
 The best way to explore this project is through the live website:
 
-➡️ **[View on GitHub Pages](https://yichiang12.github.io/bellabeat_case_study/)** — with full navigation and visual layout
+➡️ **[View the Published Case Study Site](https://yichiang12.github.io/bellabeat_case_study/)** — with full navigation and visual layout
 
 ---
 
@@ -59,7 +59,7 @@ If you'd like to view or run the files locally:
 ---
 
 ## Quick Links
-- **[View Case Study on GitHub Pages](https://yichiang12.github.io/bellabeat_case_study/)** (recommended)
+- **[View Case Study](https://yichiang12.github.io/bellabeat_case_study/)** (recommended)
 - [Browse the docs folder (detailed steps)](docs/index.md)
 
 <!-- - [Setup instructions](docs/index.md#getting-started) -->
