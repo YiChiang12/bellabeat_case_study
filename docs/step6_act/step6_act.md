@@ -39,6 +39,23 @@ The final step involves translating analytical insights into concrete business a
 - Establish **data monitoring dashboards** to track behavior post-recommendation implementation.
 - Design and A/B test **behavioral nudges** aligned with the insights.
 
+
+<!-- 1. Activity Encouragement
+Nudge: “You’ve almost hit 5,000 steps — take a short walk to reach your goal!”
+Purpose: Encourage more daily steps.
+
+2. Sleep Hygiene
+Nudge: “It’s 10:30 PM — winding down now can help you get better sleep.”
+Purpose: Promote better sleep habits.
+
+3. Hydration Reminders
+Nudge: “You’re halfway to your hydration goal. A glass of water might help!”
+Purpose: Increase water intake.
+
+4. Social Motivation
+Nudge: “Your friend Sarah just completed her workout. Ready to log yours?”
+Purpose: Leverage social influence. -->
+
 ---
 
 ## Next Steps
@@ -49,6 +66,10 @@ The final step involves translating analytical insights into concrete business a
 | Prototype retention flow for low-use users | UX Team | Week 2 |
 | Draft emails based on activity patterns | Marketing | Week 2 |
 | Evaluate step challenge beta engagement | Data Team | Week 3 |
+
+
+<!-- Alpha Phase (Internal testing)
+Beta Phase (User testing - limited group of real users) -->
 
 ---
 
