@@ -17,12 +17,3 @@ defaults:
     values:
       layout: default
 
-
-
-# title: Bellabeat Case Study
-# description: A portfolio-style site by Yi-Hsuan Chiang
-# theme: minima
-# baseurl: "/bellabeat_case_study"
-# markdown: kramdown
-# kramdown:
-#   input: GFM
