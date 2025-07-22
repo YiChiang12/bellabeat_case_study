@@ -1,9 +1,10 @@
+# Too identify user trends
 library(tidyverse)
 library(lubridate)
 library(ggplot2)
 library(scales)
 
-# Load processed data
+# Load data
 daily_activity <- read_csv("data/processed_data/daily_activity_clean.csv")
 daily_sleep <- read_csv("data/processed_data/daily_sleep_clean.csv")
 merged <- read_csv("data/processed_data/merged_activity_sleep.csv")
@@ -27,21 +28,10 @@ step_levels <- daily_avg %>%
     TRUE ~ "Very Active"
   ))
 
-# Set factor level order for proper bar plot ordering
-step_levels$activity_level <- factor(step_levels$activity_level,
-                                     levels = c("Sedentary", "Lightly Active", "Fairly Active", "Very Active"))
-
-# Plot activity level distribution
+# Plot distribution
 ggplot(step_levels, aes(x = activity_level, fill = activity_level)) +
   geom_bar() +
-  scale_fill_manual(values = c(
-    "Sedentary" = "#c2e0e2",
-    "Lightly Active" = "#8ec4e0",
-    "Fairly Active" = "#1f78b4",
-    "Very Active" = "#08306b"
-  )) +
-  labs(title = "User Activity Level Distribution", x = "Activity Level", y = "User Count") +
-  theme_minimal() +
+  labs(title = "User Activity Level Distribution", x = "", y = "User Count") +
   theme_minimal()
 
 # 3. Steps and sleep by weekday
@@ -53,29 +43,25 @@ weekday_stats <- merged %>%
     avg_sleep = mean(total_minutes_asleep)
   )
 
-# Combine into grouped bar chart
-weekday_long <- weekday_stats %>%
-  pivot_longer(cols = c(avg_steps, avg_sleep), names_to = "metric", values_to = "value")
+# Plot steps and sleep
+ggplot(weekday_stats, aes(x = weekday)) +
+  geom_col(aes(y = avg_steps), fill = "#4CAF50") +
+  labs(title = "Average Daily Steps by Weekday", y = "Steps", x = "")
 
-ggplot(weekday_long, aes(x = weekday, y = value, fill = metric)) +
-  geom_col(position = "dodge") +
-  labs(title = "Average Steps and Sleep by Weekday", x = "", y = "") +
-  scale_fill_manual(values = c("avg_steps" = "#4CAF50", "avg_sleep" = "#2196F3"),
-                    labels = c("Steps", "Sleep")) +
-  theme_minimal()
+ggplot(weekday_stats, aes(x = weekday)) +
+  geom_col(aes(y = avg_sleep), fill = "#2196F3") +
+  labs(title = "Average Minutes Asleep by Weekday", y = "Minutes", x = "")
 
-# 4. Correlation plots
+# 4. Correlations
 ggplot(merged, aes(x = total_steps, y = calories)) +
   geom_point(alpha = 0.4) +
   geom_smooth(method = "lm", color = "red") +
-  labs(title = "Steps vs Calories Burned", x = "Total Steps", y = "Calories Burned") +
-  theme_minimal()
+  labs(title = "Steps vs Calories Burned")
 
 ggplot(merged, aes(x = total_steps, y = total_minutes_asleep)) +
   geom_point(alpha = 0.4) +
   geom_smooth(method = "loess", color = "purple") +
-  labs(title = "Steps vs Minutes Asleep", x = "Total Steps", y = "Minutes Asleep") +
-  theme_minimal()
+  labs(title = "Steps vs Minutes Asleep")
 
 # 5. Hourly step pattern
 hourly_steps_summary <- hourly_steps %>%
@@ -85,12 +71,8 @@ hourly_steps_summary <- hourly_steps %>%
 
 ggplot(hourly_steps_summary, aes(x = hour, y = avg_steps)) +
   geom_line(color = "darkorange", size = 1.2) +
-  geom_point(color = "black", size = 1) +
-  geom_vline(xintercept = hourly_steps_summary$hour[which.max(hourly_steps_summary$avg_steps)],
-             linetype = "dashed", color = "grey50") +
   labs(title = "Average Steps by Hour", x = "Hour of Day", y = "Steps") +
-  scale_x_continuous(breaks = 0:23) +
-  theme_minimal()
+  scale_x_continuous(breaks = 0:23)
 
 # 6. Device usage frequency
 usage_days <- merged %>%
@@ -102,15 +84,7 @@ usage_days <- merged %>%
     days_used > 0 ~ "Low"
   ))
 
-usage_days$usage_group <- factor(usage_days$usage_group, levels = c("Low", "Moderate", "High"))
-
 ggplot(usage_days, aes(x = usage_group, fill = usage_group)) +
   geom_bar() +
-  scale_fill_manual(values = c(
-    "Low" = "#d9f0a3",
-    "Moderate" = "#78c679",
-    "High" = "#238443"
-  )) +
   labs(title = "Device Usage Frequency", x = "Usage Group", y = "Number of Users") +
-  theme_minimal() +
   theme_minimal()
