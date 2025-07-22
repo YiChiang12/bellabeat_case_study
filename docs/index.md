@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Bellabeat Case Study
-# permalink: /index/
 ---
 
 # Bellabeat Case Study
