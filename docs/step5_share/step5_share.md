@@ -31,7 +31,10 @@ In this final step, we summarize findings from the analysis to communicate actio
 
 ### 3. Steps vs. Calories & Sleep
 
-<img src="../assets/images/steps_calories_and_sleep.png" alt="steps_calories_and_sleep" width="400"/>
+<img src="../assets/images/steps_calories.png" alt="steps_calories_and_sleep" width="400"/>
+
+<img src="../assets/images/steps_calories.png" alt="steps_sleep" width="400"/>
+
 
 - There is a **strong positive correlation** between steps and calories burned.
 - No strong linear relationship between steps and sleep, though loess smoothing shows minor trends.

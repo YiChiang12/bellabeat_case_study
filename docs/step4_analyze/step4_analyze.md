@@ -6,7 +6,7 @@ permalink: /step4_analyze/
 
 # Step 4: Analyze
 
-This step focuses on analyzing the cleaned and aggregated Fitbit data to uncover trends and behaviors that can guide Bellabeat's marketing strategy.
+This step focuses on analyzing the cleaned Fitbit data to uncover trends and behaviors that can guide Bellabeat's marketing strategy.
 
 ---
 
@@ -44,14 +44,14 @@ Analyze user activity, sleep, and usage patterns from the Fitbit dataset. Identi
 ## 5. Correlation Analysis
 
 - Steps vs Calories burned (scatter plot + correlation coefficient)
-- Steps vs Sleep (scatter plot + smooth line)
+- Steps vs Sleep (scatter plot)
 
 ---
 
 ## 6. Hourly Step Patterns
 
 - Aggregate steps by hour across all users and dates
-- Plot as a heatmap or line chart to show peak activity windows (e.g., mornings, lunch, evening)
+- Plot a chart to show peak activity windows (e.g., mornings, lunch, evening)
 
 ---
 
@@ -63,7 +63,7 @@ Analyze user activity, sleep, and usage patterns from the Fitbit dataset. Identi
   - Fairly active: 7500–9999
   - Very active: 10000+
 
-- Visualize distribution as a bar or pie chart
+- Visualize distribution as a bar chart
 
 ---
 
@@ -75,7 +75,7 @@ Analyze user activity, sleep, and usage patterns from the Fitbit dataset. Identi
   - Moderate use: 11–20 days
   - Low use: 1–10 days
 
-- Visualize with bar chart or pie chart
+- Visualize with bar chart chart
 
 ---
 
