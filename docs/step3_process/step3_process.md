@@ -21,7 +21,7 @@ This step involves cleaning, transforming, and preparing the data for further an
 - Harmonize timestamp formats across datasets
 - Normalize column naming conventions
 - Eliminate redundant rows and missing values
-- Derive contextual flags such as usage time category and step classification
+- Derive contextual flags (usage categories) such as usage time category and step classification
 
 ### Cleaning Pipeline:
 ```r
