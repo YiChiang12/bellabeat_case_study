@@ -22,7 +22,6 @@ If you'd like to view or run the files locally:
 
 3. **(Optional)** Run analysis locally using scripts in the `scripts/` folder and data from `data/raw_data/`.
 
-
 ---
 
 ## Structure
