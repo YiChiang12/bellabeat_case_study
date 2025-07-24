@@ -1,5 +1,4 @@
-# # Ignore all CSV data files
 # *.csv
 
-# # Ignore CSV data files in directory
+# Ignore CSV data files in directory
 # data/raw_data/*.csv

@@ -7,7 +7,6 @@ title: Bellabeat Case Study
 
 <img src="assets/images/bellabeat.png" alt="Bellabeat" width="400"/>
 
-
 Welcome to my Bellabeat Data Analysis Case Study! This project demonstrates my ability to perform structured data preparation, analysis, visualization and deliver actionable insights aligned with real-world business objectives.
 
 Bellabeat is a high-tech wellness company creating innovative health-focused products tailored specifically for women. In this case study, I leverage publicly available fitness data to explore consumer usage trends and apply these insights to Bellabeat's marketing strategy.

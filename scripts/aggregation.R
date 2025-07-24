@@ -11,5 +11,3 @@ daily_steps <- hourly_steps %>%
   summarize(daily_steps = sum(step_total, na.rm = TRUE), .groups = "drop")
 
 write_csv(daily_steps, "data/processed_data/daily_steps_aggregated.csv")
-
-
