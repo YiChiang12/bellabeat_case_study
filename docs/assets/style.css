@@ -75,7 +75,6 @@ th, td {
 }
 
 
-/* Navigation layout with flexbox */
 .nav-links {
   display: flex;
   justify-content: space-between;
@@ -136,60 +135,3 @@ table {
   text-decoration: underline;
   color: #e07a5f;
 }
-
-
-
-/* .nav-bar {
-  background-color: #ffffff;
-  border-bottom: 1px solid #ddd;
-  padding: 1rem;
-  text-align: center;
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-  font-family: 'Segoe UI', sans-serif;
-}
-.nav-bar a {
-  margin: 0 20px;
-  text-decoration: none;
-  color: #e07a5f;
-  font-weight: 600;
-  font-size: 16px;
-}
-.nav-bar a:hover {
-  text-decoration: underline;
-  color: #3d405b;
-} */
-
-
-
-
-
-
-
-
-
-
-/* 
-.nav-bar {
-  background: #fff;
-  padding: 1rem;
-  border-bottom: 1px solid #eaeaea;
-  text-align: center;
-  font-family: system-ui, sans-serif;
-}
-.nav-bar a {
-  margin: 0 15px;
-  color: #e07a5f;
-  text-decoration: none;
-  font-weight: bold;
-}
-.nav-bar a:hover {
-  color: #3d405b;
-  text-decoration: underline;
-}
-.content {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 0 1rem;
-} */
